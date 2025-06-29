@@ -1,0 +1,23 @@
+# Root
+.DS_Store
+*.log
+
+# Java (Spring Boot)
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.idea/
+backend/*.iml
+
+# Node.js (React)
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.next/
+frontend/.cache/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
