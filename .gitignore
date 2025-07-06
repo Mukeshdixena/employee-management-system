@@ -1,3 +1,4 @@
+.env
 # Root
 .DS_Store
 *.log
